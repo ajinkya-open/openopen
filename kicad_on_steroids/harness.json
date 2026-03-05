@@ -1,0 +1,48 @@
+{
+    "J2": {
+        "pins": [
+            {
+                "pin": "1",
+                "net": "VCC_3V",
+                "to": "Unknown.1",
+                "len": "20",
+                "color": "#FF0000",
+                "awg": "22 AWG",
+                "remark": "",
+                "code": "0"
+            },
+            {
+                "pin": "2",
+                "net": "RXD0",
+                "to": "Unknown.2",
+                "len": "20",
+                "color": "#FF0000",
+                "awg": "22 AWG",
+                "remark": "",
+                "code": "0"
+            },
+            {
+                "pin": "3",
+                "net": "TXD0",
+                "to": "Unknown.3",
+                "len": "20",
+                "color": "#FF0000",
+                "awg": "22 AWG",
+                "remark": "",
+                "code": "0"
+            },
+            {
+                "pin": "4",
+                "net": "GND",
+                "to": "Unknown.2",
+                "len": "20",
+                "color": "#FF0000",
+                "awg": "22 AWG",
+                "remark": "",
+                "code": "0"
+            }
+        ],
+        "image": "/tmp/open/harness_assets/J2_snip.png",
+        "slack": 9
+    }
+}
